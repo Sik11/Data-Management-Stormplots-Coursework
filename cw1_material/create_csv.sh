@@ -1,5 +1,2 @@
 #!/bin/bash
-while IFS= read -r line; do
-	echo "$line"|xargs 
-done <"$1"| grep -E "<td>"    
-
+grep -o '<td>.*</td>' "$1" | sed -e 's/,/;/g' -e 's/\(<td>\|<\/td>\|<B>\|<\/B>\)//g' -e '/hr/d'
