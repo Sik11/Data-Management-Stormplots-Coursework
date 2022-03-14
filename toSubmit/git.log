@@ -1,0 +1,176 @@
+commit 80f09cbbf776db9691919d744a81bf1d0cd00d04
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Mon Mar 14 03:18:20 2022 +0000
+
+    Final Latex Document
+
+commit 66149d8d634377faa23172d0670614d50e12b240
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Mon Mar 14 03:01:14 2022 +0000
+
+    Final Latex Document
+
+commit 36d6518e7089367eb8668afe3bd950c3340d77a6
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Sat Mar 12 02:37:10 2022 +0000
+
+    Latex file has been updated. It now contains explanation of the bash script
+
+commit 3bfd62bcb7423bef90f76c0acf5736830529eea3
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Mar 11 00:25:55 2022 +0000
+
+    Latex file draft 1 contains bash script
+
+commit 625d93497a95fd7b3ec6534ae933abdf866b6778
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Mar 11 00:25:15 2022 +0000
+
+    Delete report.tex
+
+commit b951727e91edf1f1080a7b1a1fda2a866297c8ca
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Mar 11 00:20:20 2022 +0000
+
+    Latex file draft 1 contains bash script
+
+commit a586f5c49de67c27f7791ea9f7cbf60e393fca12
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Mar 11 00:03:36 2022 +0000
+
+    Latex file created
+
+commit a4475541e77f4727abab25aa7f51a9993fd6c304
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Thu Mar 10 01:36:40 2022 +0000
+
+    Contains latex drafts and final document
+
+commit 919445bc9927891e8a78177ccdef4153b1626e12
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Thu Mar 10 01:29:05 2022 +0000
+
+    Latex Document Draft 1: Contains bash script
+
+commit 75f73a67b344b60b333768165b104a5820e30ffc
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Thu Mar 10 00:27:09 2022 +0000
+
+    Storm plot for kml files
+
+commit f1e7c2dfe1bad0c54291f445618fd305bd9179e0
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Thu Mar 10 00:23:23 2022 +0000
+
+    Storm plot for al122020.kml file
+
+commit 7f922cc18adaa1cd54f47a2aa78958035b52f4b6
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Thu Mar 10 00:23:10 2022 +0000
+
+    Storm plot for al112020.kml file
+
+commit 9ea7309b9282c4bc41061260555adc924668edb3
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Thu Mar 10 00:22:58 2022 +0000
+
+    Storm plot for al102020.kml file
+
+commit 09da1a12574278788d88caf675ec709f5574de8e
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Thu Mar 10 00:09:12 2022 +0000
+
+    Refined script by removing unnecessary td tags that came after sed
+
+commit bccd2b188cce5feed3d4e502a241d73e5d83ac19
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Mar 4 00:10:12 2022 +0000
+
+    Bash script has been modified so the first program in the script, gets the contents first program gets the contents inbetween the td tags. As a result, script no longer has to remove tags with sed.
+
+commit b1bd6ff7e4210f32a162d1de6e21f5b78ec16d1c
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Sat Feb 26 03:16:58 2022 +0000
+
+    Test
+
+commit 0c62e66db960f7a8d3b35c4dfda1d62eafcb030b
+Merge: 37ee1d0 85b8a8a
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Sat Feb 26 03:10:05 2022 +0000
+
+    Merge branch 'master' of https://git.soton.ac.uk/oew1g21/comp1204-oew1g21-cwk1
+
+commit 37ee1d05320f4ba07402aaeeb7714edc203a08b5
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Sat Feb 26 03:04:51 2022 +0000
+
+    Script has been edited to concatenate data. It merges 4 lines into 1 line and uses commas to separate them. The final output is then written to the output file along with the header line.
+
+commit 85b8a8aaab695d1b029bf5cb47574b1891e56098
+Merge: 6e704c1 01dec5c
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Sat Feb 26 00:02:51 2022 +0000
+
+    Merge branch 'master' of https://git.soton.ac.uk/oew1g21/comp1204-oew1g21-cwk1
+    This was done to update the authors of the various commits
+
+commit 6e704c1b85d55a527d4f2a916e07e71c0ee546e2
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Feb 25 23:31:21 2022 +0000
+
+    Script now deletes every heading by only printing records that are divisible by 2
+
+commit 7aede2b86036e913864a3e41d5da171ec46543d1
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Feb 25 22:55:28 2022 +0000
+
+    Script now ignores pressure that is not in Hg and Intensity that's not in knots
+
+commit bff7f275e0814201beae33501ae1caa70fd9f38b
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Tue Feb 22 00:46:02 2022 +0000
+
+    Bash script now gets all the necessary data from the table cells and removes all tags
+
+commit e2f2b8a77949831f77bd772e076b98cb51ef401e
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Mon Feb 21 23:19:30 2022 +0000
+
+    Created create_csv.sh. It searches the kml file for all td tags and outputs lines with the td tag.
+
+commit 01dec5c43d02e5c27c165d1c852f0f7632cab876
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Fri Feb 25 23:31:21 2022 +0000
+
+    Script now deletes every heading by only printing records that are divisible by 2
+
+commit 68ea63461c6c9ae5ca88a18f2d3c18674579b53d
+Author: O.E.Wellington <oew1g21@srv02095.soton.ac.uk>
+Date:   Fri Feb 25 22:55:28 2022 +0000
+
+    Script now ignores pressure that is not in Hg and Intensity that's not in knots
+
+commit ff11bb060e3a9849741493884bf1536afb7370b0
+Author: O.E.Wellington <oew1g21@srv02095.soton.ac.uk>
+Date:   Tue Feb 22 00:46:02 2022 +0000
+
+    Bash script now gets all the necessary data from the table cells and removes all tags
+
+commit 64f03a936e034e8896e0b74e6a77b164be0e69af
+Author: O.E.Wellington <oew1g21@srv02095.soton.ac.uk>
+Date:   Mon Feb 21 23:19:30 2022 +0000
+
+    Created create_csv.sh. It searches the kml file for all td tags and outputs lines with the td tag.
+
+commit c79ba77e0c6160d08565054e9c321af871cb684e
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Mon Feb 21 22:45:42 2022 +0000
+
+    Coursework Resources
+
+commit 0ffc221b361b19ab035cf52a24f4f688b6d45b5a
+Author: oew1g21 <oew1g21@soton.ac.uk>
+Date:   Mon Feb 21 22:37:00 2022 +0000
+
+    Update cw1_material (1).tar.gz
